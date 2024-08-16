@@ -16,4 +16,16 @@ _**Key Features:**_
 _**Installation:**_
 
 Clone the repository:
+bash
+Copy code
 git clone https://github.com/yourusername/opencv-image-manipulation.git
+Navigate to the project directory:
+arduino
+Copy code
+cd opencv-image-manipulation
+Install the required dependencies:
+Copy code
+pip install opencv-python
+Run the script:
+Copy code
+python image_manipulation.py
