@@ -16,4 +16,4 @@ _**Key Features:**_
 _**Installation:**_
 
 Clone the repository:
-  git clone https://github.com/yourusername/opencv-image-manipulation.git
+git clone https://github.com/yourusername/opencv-image-manipulation.git
