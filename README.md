@@ -13,19 +13,5 @@ _**Key Features:**_
 2. Run the Python script to perform various image manipulation tasks.
 3. Customize the script to apply different operations such as reading, rotating, resizing, and writing images based on your needs.
 
-_**Installation:**_
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/opencv-image-manipulation.git
-Navigate to the project directory:
-arduino
-Copy code
-cd opencv-image-manipulation
-Install the required dependencies:
-Copy code
-pip install opencv-python
-Run the script:
-Copy code
-python image_manipulation.py
+_I welcome contributions to this OpenCV Image Manipulation project. Feel free to fork the repository, enhance the code, or add new features, such as additional image processing techniques._ 😊❤
